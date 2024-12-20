@@ -39,7 +39,7 @@
     "solid-js": "1.9.1"
   },
   "devDependencies": {
-    "esbuild": "0.24.0",
+    "esbuild": "0.24.2",
     "esbuild-plugin-solid": "0.6.0",
     "prettier": "3.3.3",
     "tsup": "8.3.0",
